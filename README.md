@@ -9,8 +9,8 @@
 <br>
 
 - 👋 Hi, I’m Mihir Hebalkar
-- 👀 I’m a Second Year CSE student @SIT Pune 
-- 🌱 I’m currently learning Full Stack Web Development, JAVA.
+- 👀 I’m a Third Year CSE student @SIT Pune 
+- 🌱 I’m currently learning Full Stack Web Development.
 - 💞️ I’m looking to collaborate on any projects.
 - 📫 How to reach me: <div style="display: flex; align-items: center;">
   <a href="mailto:mihirhebalkar07@gmail.com" target="_blank"><img src="https://w7.pngwing.com/pngs/72/753/png-transparent-gmail-icon-email-home-screen-bookmark-gmail-logo-angle-text-rectangle-thumbnail.png" alt="Gmail Logo" width="35" height="35"></a>
