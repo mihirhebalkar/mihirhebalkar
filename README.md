@@ -8,7 +8,7 @@
 
 ### 👋 Hi, I’m Mihir Hebalkar
 
-- 💻 I'm a **Third Year CSE student** at **SIT Pune**.
+- 💻 I'm a **Final Year CSE student** at **SIT Pune**.
 - 🌱 Currently learning **Gen AI and Full Stack Development**.
 - 📚 I’m passionate about **coding**, **problem-solving**, and **creating impactful applications**.
 - 🤝 I’m looking to **collaborate** on exciting projects.
